@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN-SUFFIX,zju.edu.cn
+  - DOMAIN-SUFFIX,acm.org
+  - DOMAIN-SUFFIX,acm-prod.disqus.com
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,cc98.org
+  - IP-CIDR,10.39.2.41/32
